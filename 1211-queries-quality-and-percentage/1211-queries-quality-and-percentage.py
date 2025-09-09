@@ -1,13 +1,14 @@
 import pandas as pd
 
 def queries_stats(queries: pd.DataFrame) -> pd.DataFrame:
-    queries['quality'] = queries['rating']/queries['position']
+    df = queries.copy()
+    df['quality_ratio'] = df.rating/df.position + 1e-6
+    df['poor_query'] = df.apply(lambda row: 100 if row.rating < 3 else 0, axis =1)
+    df_output = df.groupby(by='query_name').agg(
+        quality = ('quality_ratio', 'mean'),
+        poor_query_percentage = ('poor_query', 'mean')
+        # queries = ('rating', 'size')
+    ).reset_index()
+    
 
-    queries['poor_query_percentage'] = 0
-    queries.loc[queries['rating'] < 3, 'poor_query_percentage'] = 100
-
-
-    result = queries.groupby('query_name')[['quality', 'poor_query_percentage']].mean().reset_index()
-    result['quality'] = round(result['quality'],2)
-    result['poor_query_percentage'] = round(result['poor_query_percentage'],2)
-    return result
+    return df_output[['query_name','quality', 'poor_query_percentage']].round(2)
