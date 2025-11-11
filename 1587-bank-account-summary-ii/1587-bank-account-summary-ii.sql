@@ -7,4 +7,4 @@ GROUP BY u.name
 )
 SELECT name, balance
 FROM TMP
-WHERE balance >= 10000
+WHERE balance > 10000
