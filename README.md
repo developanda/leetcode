@@ -7,4 +7,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3220-odd-and-even-transactions](https://github.com/developanda/leetcode/tree/main/3220-odd-and-even-transactions/) | Medium |
+| [3374-first-letter-capitalization-ii](https://github.com/developanda/leetcode/tree/main/3374-first-letter-capitalization-ii/) | Hard |
 <!---LeetCode Topics End-->
