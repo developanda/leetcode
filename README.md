@@ -11,4 +11,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3421-find-students-who-improved](https://github.com/developanda/leetcode/tree/main/3421-find-students-who-improved/) | Medium |
 | [3436-find-valid-emails](https://github.com/developanda/leetcode/tree/main/3436-find-valid-emails/) | Easy |
 | [3451-find-invalid-ip-addresses](https://github.com/developanda/leetcode/tree/main/3451-find-invalid-ip-addresses/) | Hard |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/developanda/leetcode/tree/main/3465-find-products-with-valid-serial-numbers/) | Easy |
 <!---LeetCode Topics End-->
