@@ -12,4 +12,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3436-find-valid-emails](https://github.com/developanda/leetcode/tree/main/3436-find-valid-emails/) | Easy |
 | [3451-find-invalid-ip-addresses](https://github.com/developanda/leetcode/tree/main/3451-find-invalid-ip-addresses/) | Hard |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/developanda/leetcode/tree/main/3465-find-products-with-valid-serial-numbers/) | Easy |
+| [3475-dna-pattern-recognition](https://github.com/developanda/leetcode/tree/main/3475-dna-pattern-recognition/) | Medium |
 <!---LeetCode Topics End-->
