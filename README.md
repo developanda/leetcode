@@ -14,4 +14,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3465-find-products-with-valid-serial-numbers](https://github.com/developanda/leetcode/tree/main/3465-find-products-with-valid-serial-numbers/) | Easy |
 | [3475-dna-pattern-recognition](https://github.com/developanda/leetcode/tree/main/3475-dna-pattern-recognition/) | Medium |
 | [3482-analyze-organization-hierarchy](https://github.com/developanda/leetcode/tree/main/3482-analyze-organization-hierarchy/) | Hard |
+| [3497-analyze-subscription-conversion](https://github.com/developanda/leetcode/tree/main/3497-analyze-subscription-conversion/) | Medium |
 <!---LeetCode Topics End-->
