@@ -17,4 +17,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3497-analyze-subscription-conversion](https://github.com/developanda/leetcode/tree/main/3497-analyze-subscription-conversion/) | Medium |
 | [3521-find-product-recommendation-pairs](https://github.com/developanda/leetcode/tree/main/3521-find-product-recommendation-pairs/) | Medium |
 | [3554-find-category-recommendation-pairs](https://github.com/developanda/leetcode/tree/main/3554-find-category-recommendation-pairs/) | Hard |
+| [3564-seasonal-sales-analysis](https://github.com/developanda/leetcode/tree/main/3564-seasonal-sales-analysis/) | Medium |
 <!---LeetCode Topics End-->
