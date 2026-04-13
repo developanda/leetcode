@@ -20,4 +20,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3564-seasonal-sales-analysis](https://github.com/developanda/leetcode/tree/main/3564-seasonal-sales-analysis/) | Medium |
 | [3570-find-books-with-no-available-copies](https://github.com/developanda/leetcode/tree/main/3570-find-books-with-no-available-copies/) | Easy |
 | [3580-find-consistently-improving-employees](https://github.com/developanda/leetcode/tree/main/3580-find-consistently-improving-employees/) | Medium |
+| [3586-find-covid-recovery-patients](https://github.com/developanda/leetcode/tree/main/3586-find-covid-recovery-patients/) | Medium |
 <!---LeetCode Topics End-->
